@@ -1,0 +1,1 @@
+A simple clock that tracks a 24 hour period by slowly expanding a circle to fill up into another one. An arrow function was used with setInterval to udate the radius of the smaller circle every second.
